@@ -1,7 +1,7 @@
 # Zhivan Intelligent System
 
 
-![Zhivan.ai](./docs/images/Zhivan_03.png)
+![Zhivan.ai](./Zhivan_03.png)
 
 🌐 [Visit our website](https://zhivan.ai/)
 
