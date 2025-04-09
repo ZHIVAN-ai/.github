@@ -1,5 +1,8 @@
 # Zhivan Intelligent System
 
+
+![Zhivan.ai](./docs/images/Zhivan_03.png)
+
 🌐 [Visit our website](https://zhivan.ai/)
 
 **Enhancing Vehicle Safety & Preventing Road Accidents**
